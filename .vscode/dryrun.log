@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/michael/Other Projects/prime-software'
+docker-compose exec  webserver "/bin/bash" 
+make: Leaving directory '/home/michael/Other Projects/prime-software'
+ 
